@@ -1,4 +1,4 @@
-package com.example.seand_ahadeeth_to_firebase
+package com.aiahadeeth
 
 import io.flutter.embedding.android.FlutterActivity
 

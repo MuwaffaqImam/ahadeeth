@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.seand_ahadeeth_to_firebase">
+    package="com.aiahadeeth">
    <application
-        android:label="seand_ahadeeth_to_firebase"
+        android:usesCleartextTraffic="true"
+        android:label="aiahadeeth"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
