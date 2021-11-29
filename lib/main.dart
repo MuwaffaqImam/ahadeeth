@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:provider/provider.dart';
 import 'package:seand_ahadeeth_to_firebase/home_page.dart';
-import 'package:seand_ahadeeth_to_firebase/them_provider.dart';
+import 'package:seand_ahadeeth_to_firebase/provider/theme.dart';
 
 import 'home_page.dart';
 

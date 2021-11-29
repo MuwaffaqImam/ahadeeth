@@ -2,7 +2,7 @@
     package="com.aiahadeeth">
    <application
         android:usesCleartextTraffic="true"
-        android:label="aiahadeeth"
+        android:label="Ahadeeth"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
